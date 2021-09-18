@@ -43,7 +43,7 @@ That's it! You are all set!
 
 Usually DNS propagation happens quickly. However, in the worst case, it may take up to 24 hours.
 
-*Note: If you want to double-check or delete the domain mapping go to your "Blog Dashboard" then "Domain" tab from the sidemenu.***
+*Note: If you want to double-check or delete the domain mapping go to your "Blog Dashboard" then "Domain" tab from the sidemenu.*
 
 ![HashnodeDomainTab.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1631878933014/TXAET5cSs.png)
 
