@@ -9,7 +9,7 @@ The only problem is that the URL only works on your local computer. You could go
 
 ![Overwhelming.jpeg](https://cdn.hashnode.com/res/hashnode/image/upload/v1634555878961/ouYLbgyj2.jpeg)
 
-That's where tunnels come in. You can use free tools like `cloudflare` tunnels to set up a secure but temporary connection between your machine/localhost and the internet.
+That's where tunnels come in. You can use free tools like `ngrok` and `cloudflare` tunnels to set up a secure but temporary connection between your machine/localhost and the internet. We will cover here Cloudflare tunnel as an example.
 
 ### Cloudflare Tunnel
 
