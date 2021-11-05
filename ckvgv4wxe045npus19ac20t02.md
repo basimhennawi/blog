@@ -2,7 +2,7 @@
 
 Lambda is not a prescriptive service and provides broad functionality for you to build applications as needed. While this flexibility is important, it can also lead to designs that are technically functional but may be suboptimal from an architecture and cost point of view. As with all patterns and anti-patterns in technology, these are not rules.
 
-Let's highlight the 5 anti-patterns to avoid in Lambda based applications.
+Let's highlight the 5 anti-patterns to avoid in Lambda based applications as per the AWS docs.
 
 ### **1. Monolith Lambda**
 
