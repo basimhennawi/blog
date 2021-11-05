@@ -98,7 +98,7 @@ In this design, the first Lambda function responds immediately after putting the
 - Try to use queue if needed to decouple between two functions and persists messages.
 - Try to ensure that concurrent activities are not scheduled synchronously.
 
-That's it! I'd love for you to leave me a feedback below in the comments.
+That's it!
 
 ### References
 
