@@ -30,13 +30,13 @@ Nope! GitHub Copilot tries to understand your intent and to generate the best co
 
 ### Let's check out few examples!
 
-Remember, in order to make the most out of it, it is suggested to divide the code into smaller functions, provide meaningful function names, parameters, and docstrings.
+Remember, in order to make the most out of it, it is suggested to divide the code into smaller functions, provide meaningful function names and parameters.
 
 According to GitHub, it understands dozens of languages but it does especially well for Python, JavaScript, TypeScript, Ruby, Java, and Go.
 
-Now let's have some fun here with a blank **Javascript** file and play around with it, as follow:
+Now let's have some fun here with a blank Javascript file and play around with it, as follow:
 
-Let's start with some straight forward functions like `logMessage`, `addTwoNumbers` and `calcDiffBetweenDates` and see what we get.
+Let's start with some straight-forward "pure" functions like `logMessage`, `addTwoNumbers` and `calcDiffBetweenDates` and see what we get.
 
 ![log.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1636375831921/F1m-DZIkG.gif)
 
@@ -44,7 +44,7 @@ Even it could autofill a function based on a comment.
 
 ![comment.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1636378154097/6YfycP71Q.gif)
 
-Now what about functions expected to be using some APIs like Twitter.
+Now what about functions expected to be using some APIs like Twitter?
 
 ![twitter.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1636375646200/rBBu6G9Se.gif)
 
@@ -52,11 +52,11 @@ Next with AWS SDK functions like: `uploadToS3`, `getSignedUrlS3`, `insertIntoDyn
 
 ![aws.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1636376121024/W7xvMlZ1f.gif)
 
-Ah one of the most developer's time waster: Regular Expresssions 😆 Let's test the email and URL validation regex.
+Ah one of the most developer's time waster: Regular Expressions 😆 Let's test the email and URL validation regex.
 
 ![regex.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1636376431854/AItFvoGa_.gif)
 
-And how far can it fetches a correct answer for Leetcode problems starting with an easy one like `binarySearch` to another hard one like `longestValidParentheses`.
+And how far can it fetches a correct answer for Leetcode problems? starting with an easy one like `binarySearch` to another hard one like `longestValidParentheses`
 
 ![leetcode.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1635952371820/I4YzRTcyk.gif)
 
@@ -72,7 +72,7 @@ Let's try random stuff: `whatIsTheMeaningOfLife` returns back 42 which is a numb
 
 ![life.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1636377018937/Pnkz3tylh.gif)
 
-Okay I bet you can spend the whole day playing around with this among different contexts and use-cases with different programming languages. So far it could be helpful for some cases and useless for others.
+Okay I bet you can spend the whole day playing around with this among different use-cases with different programming languages. It could be also way more useful within the context of your application.
 
 ### Alternatives to GitHub Copilot
 
@@ -87,6 +87,8 @@ The best way to contribute is to sign up for the technical preview. Access is li
 
 More about it, check [GitHub Copilot Docs](https://github.com/github/copilot-docs)  out!
 
-Also if you don't have access to technincal preview yet, please let me know if you are curious about some snippets that I could add here later. 😉
+Also check out Twitter's hashtag [#GitHubCopilot](https://twitter.com/hashtag/GitHubCopilot) for more from the community.
+
+And if you don't have access to technical preview yet, please let me know if you are curious about some snippets that I could add here later. 😉
 
 Enjoy coding faster with Github Copilot! 🤖 
