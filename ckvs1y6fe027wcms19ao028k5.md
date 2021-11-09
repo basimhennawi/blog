@@ -34,9 +34,7 @@ Remember, in order to make the most out of it, it is suggested to divide the cod
 
 According to GitHub, it understands dozens of languages but it does especially well for Python, JavaScript, TypeScript, Ruby, Java, and Go.
 
-Now let's have some fun here with a blank Javascript file and play around with it, as follow:
-
-Let's start with some straight-forward "pure" functions like `logMessage`, `addTwoNumbers` and `calcDiffBetweenDates` and see what we get.
+Now let's have some fun here with a blank Javascript file and start with some straight-forward "pure" functions like `logMessage`, `addTwoNumbers` and `calcDiffBetweenDates` and see what we get.
 
 ![log.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1636375831921/F1m-DZIkG.gif)
 
